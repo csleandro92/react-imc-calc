@@ -48,7 +48,7 @@
 }
 
 .table-header h4:nth-child(3),
-.table-data p:nth-child((3)) {
+.table-data p:nth-child(3) {
   max-width: 80px;
 }
 
